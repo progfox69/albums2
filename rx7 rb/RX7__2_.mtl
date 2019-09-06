@@ -1,0 +1,29 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2013 TIG
+# Made for 'RX7__2_.obj'
+
+newmtl Default_Material
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Coloured_Materia
+Ka 0.0588235 0.0588235 0.0588235
+Kd 0.0588235 0.0588235 0.0588235
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Paint_Material
+Ka 0.133333 0.133333 0.137255
+Kd 0.133333 0.133333 0.137255
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+#EOF
